@@ -3,7 +3,7 @@
 ##### pavankreddy.t@gmail.com
 
 ### Career Objective:
-Seeking a challenging Job to further enhance my skill set. 
+Seeking a **challenging** *Job* to further enhance my skill set. 
 
 ### Educational Qualification
 
@@ -13,3 +13,8 @@ B.Tech | 4
 Inter | 2 
 SSC | 10
 
+### Certifications
+![Certificate](/Sample-Certificates.jpg)
+
+### Publications
+[First Publication](https://google.com)
